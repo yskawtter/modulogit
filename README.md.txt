@@ -1,2 +1,2 @@
-meu primeiro projeto git (Alterando y alterando)
+meu primeiro projeto git 
 
